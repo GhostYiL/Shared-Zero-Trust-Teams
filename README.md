@@ -1,4 +1,4 @@
-# Warp Zero Trust + Adblock Lists
+# Shared Zero Trust Teams
 A repo for shared zero trust access with adblocking capabilities
 
 > [!CAUTION]
